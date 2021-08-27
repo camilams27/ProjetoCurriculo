@@ -1,0 +1,42 @@
+{
+	"name": "jquerysnippets",
+	"displayName": "jQuery Code Snippets",
+	"description": "Over 130 jQuery Code Snippets",
+	"version": "0.0.1",
+	"publisher": "donjayamanne",
+	"license": "SEE LICENSE IN LICENSE or README.MD",
+	"homepage": "https://github.com/DonJayamanne/jquerysnippets/blob/master/README.md",
+	"icon": "images/icon.png",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"galleryBanner": {
+		"color": "#ffffff",
+		"theme": "light"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "javascript",
+				"path": "./snippets/javascript.json"
+			}
+		]
+	},
+	"scripts": {
+		"vscode:prepublish": "node ./node_modules/vscode/bin/compile",
+		"compile": "node ./node_modules/vscode/bin/compile -watch -p ./"
+	},
+	"devDependencies": {
+		"typescript": "^1.6.2",
+		"vscode": "0.10.x"
+	},
+	"__metadata": {
+		"id": "99c12a52-ff68-4e9d-a975-a67556fee2f5",
+		"publisherId": "1ba8bd00-2ad1-4be0-a007-5b4b954c1ee7",
+		"publisherDisplayName": "Don Jayamanne",
+		"installedTimestamp": 1623727556074
+	}
+}

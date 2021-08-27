@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.xml.catalog/2">
+    <module_version install_time="1621266198163" last="true" origin="installer" specification_version="3.16.0.4">
+        <file crc="1336097985" name="config/ModuleAutoDeps/org-netbeans-modules-xml-catalog.xml"/>
+        <file crc="4257896318" name="config/Modules/org-netbeans-modules-xml-catalog.xml"/>
+        <file crc="797809238" name="modules/org-netbeans-modules-xml-catalog.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.projectuiapi.base/1">
+    <module_version install_time="1621266147132" last="true" origin="installer" specification_version="1.97.0.9">
+        <file crc="2795608921" name="config/Modules/org-netbeans-modules-projectuiapi-base.xml"/>
+        <file crc="2626740091" name="modules/org-netbeans-modules-projectuiapi-base.jar"/>
+    </module_version>
+</module>

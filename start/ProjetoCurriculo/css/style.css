@@ -1,0 +1,159 @@
+
+*{
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* zerando margens padrao */
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+/*  */
+main{
+    background-color: rgb(224, 224, 224);
+}
+
+/* selection principal */
+#principal{
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    width: 50vw;
+    height: 100%;
+    position: relative;
+}
+
+/* conteúdo do curriculo */
+div[id^="conteudo"]{
+    margin:  61px 71px;
+}
+
+/* parte esquerda (branca) */
+#container-left{
+    height: 150vh;
+    width: 75vw;
+    background-color: #FFFFFF;
+}
+
+/* cabecalho */
+#foto-perfil{
+    height: 140px;
+    width: 140px;
+    border-radius: 100%;
+}
+
+#cabecalho{
+    display: flex;
+    flex-direction: row;
+}
+
+#nome{
+    margin: 43px 0px 7px 0px;
+}
+
+#nome-area{
+    margin-left: 11px;
+}
+
+#area{
+    margin: 0%;
+}
+
+/* ----------------------- */
+/* topicos */
+
+/* titulos */
+h2[id^="h2"]{
+    margin: 36px 0 10px 0;
+    color: #19304F;
+}
+
+/* paragrafos perfil e contato */
+p[id^="p-"]{
+    line-height: 22px;
+    margin: 0%;
+    font-size: 16px;
+}
+
+/* educação */
+li{
+    margin: 0;
+    line-height: 25px;
+}
+
+/* footer */
+footer{
+    text-align: center;
+    position: absolute;
+    bottom:0;
+    width: 100%;
+}
+
+/* ----------------------- */
+
+/* lado direito (azul)  */
+#container-right{
+    height: 150vh;
+    width: 25vw;
+    background-color: #19304F;
+    color: #FFFFFF;
+}
+
+/* contato */
+#contato{
+    margin-top: 200px;
+} 
+/* icones  */
+.icones{
+    height: 16px;
+    letter-spacing: 5px;
+}
+
+/* conhecimentos */
+#conhecimentos{
+    margin-top: 100px;
+}
+#table-conhecimentos{
+    margin-top: 11px;
+
+}
+tr,td{
+    padding: 8px;
+    text-align: left;
+    border-bottom: 2px solid #ddd;
+    margin-top: 9px;
+    width: 20vw;
+    
+}
+
+/* fomatação de cor e tamanho dos textos*/
+h2{
+    font-size: 20px;
+}
+
+#p-perfil,ul, li{
+    color: #222222;
+    font-size: 16px;
+}
+
+/* links */
+a{
+    text-decoration: none;
+}
+
+a.link-projeto:link{
+    color: black;
+}
+a.link-projeto:hover{
+    color: blue;
+    text-decoration: underline;
+}
+a.link-projeto:visited{
+    color: darkgreen;
+}
+#email{
+    color: #FFFFFF;
+}
+

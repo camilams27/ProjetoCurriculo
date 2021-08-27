@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.editor.lib2/1">
+    <module_version install_time="1621266130817" last="true" origin="installer" specification_version="2.32.0.55.3">
+        <file crc="2252811461" name="config/ModuleAutoDeps/org-netbeans-modules-editor-lib2.xml"/>
+        <file crc="1027150669" name="config/Modules/org-netbeans-modules-editor-lib2.xml"/>
+        <file crc="3418739246" name="modules/org-netbeans-modules-editor-lib2.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.micronaut">
+    <module_version install_time="1621267184663" last="true" origin="installer" specification_version="1.0.1.2">
+        <file crc="4201466671" name="config/Modules/org-netbeans-modules-micronaut.xml"/>
+        <file crc="1860364709" name="modules/ext/android-json-0.0.20131108.vaadin1.jar"/>
+        <file crc="453904853" name="modules/ext/spring-boot-configuration-metadata-2.4.4.jar"/>
+        <file crc="1859073663" name="modules/org-netbeans-modules-micronaut.jar"/>
+    </module_version>
+</module>

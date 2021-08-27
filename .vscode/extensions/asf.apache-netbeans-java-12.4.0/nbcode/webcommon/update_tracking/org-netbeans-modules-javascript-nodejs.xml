@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript.nodejs/0">
+    <module_version install_time="1621266465557" last="true" origin="installer" specification_version="0.41">
+        <file crc="578662322" name="config/Modules/org-netbeans-modules-javascript-nodejs.xml"/>
+        <file crc="2001570164" name="modules/org-netbeans-modules-javascript-nodejs.jar"/>
+    </module_version>
+</module>

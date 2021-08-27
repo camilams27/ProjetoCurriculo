@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.cpplite.debugger">
+    <module_version install_time="1621267317304" last="true" origin="installer" specification_version="1.4">
+        <file crc="1591360023" name="config/Modules/org-netbeans-modules-cpplite-debugger.xml"/>
+        <file crc="257191482" name="modules/ext/cpplite-mi-f8f8250283be.jar"/>
+        <file crc="803473811" name="modules/org-netbeans-modules-cpplite-debugger.jar"/>
+    </module_version>
+</module>

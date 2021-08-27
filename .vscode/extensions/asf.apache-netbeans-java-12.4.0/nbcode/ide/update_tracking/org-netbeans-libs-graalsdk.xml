@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.graalsdk">
+    <module_version install_time="1621266302452" last="true" origin="installer" specification_version="1.12">
+        <file crc="4288795676" name="config/Modules/org-netbeans-libs-graalsdk.xml"/>
+        <file crc="1442204038" name="modules/ext/graal-sdk-20.2.0.jar"/>
+        <file crc="749330892" name="modules/ext/launcher-common-20.2.0.jar"/>
+        <file crc="595664844" name="modules/org-netbeans-libs-graalsdk.jar"/>
+    </module_version>
+</module>

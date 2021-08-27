@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="slf4j.jdk14">
+    <module_version install_time="1621266263786" last="true" origin="installer" specification_version="1.7.28">
+        <file crc="3809591376" name="config/Modules/slf4j-jdk14.xml"/>
+        <file crc="3278518546" name="modules/slf4j-jdk14.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.hints.legacy.spi/1">
+    <module_version install_time="1621266516038" last="true" origin="installer" specification_version="1.28.0.1.13">
+        <file crc="4291474663" name="config/Modules/org-netbeans-modules-java-hints-legacy-spi.xml"/>
+        <file crc="72212090" name="modules/org-netbeans-modules-java-hints-legacy-spi.jar"/>
+    </module_version>
+</module>

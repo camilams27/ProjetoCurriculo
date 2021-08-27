@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.mx.project">
+    <module_version install_time="1621266708668" last="true" origin="installer" specification_version="1.1">
+        <file crc="4184314297" name="config/Modules/org-netbeans-modules-java-mx-project.xml"/>
+        <file crc="1015282376" name="modules/org-netbeans-modules-java-mx-project.jar"/>
+        <file crc="3994104633" name="org.eclipse.jdt.core.prefs"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.html.xhr4j">
+    <module_version install_time="1621266053155" last="true" origin="installer" specification_version="1.7.0">
+        <file crc="892400741" name="config/Modules/org-netbeans-html-xhr4j.xml"/>
+        <file crc="3963341085" name="modules/org-netbeans-html-xhr4j.jar"/>
+    </module_version>
+</module>

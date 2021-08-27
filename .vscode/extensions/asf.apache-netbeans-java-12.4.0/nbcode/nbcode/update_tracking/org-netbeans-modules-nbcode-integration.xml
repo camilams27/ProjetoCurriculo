@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.nbcode.integration">
+    <module_version install_time="1621267510509" last="true" origin="installer" specification_version="1.0">
+        <file crc="3260776030" name="config/Modules/org-netbeans-modules-nbcode-integration.xml"/>
+        <file crc="4218195033" name="modules/org-netbeans-modules-nbcode-integration.jar"/>
+    </module_version>
+</module>

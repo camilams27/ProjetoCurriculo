@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.editor/1">
+    <module_version install_time="1621266563450" last="true" origin="installer" specification_version="2.80.0.12.1.1.1">
+        <file crc="4197832205" name="config/ModuleAutoDeps/org-netbeans-modules-java-editor.xml"/>
+        <file crc="1233444570" name="config/Modules/org-netbeans-modules-java-editor.xml"/>
+        <file crc="131930599" name="modules/org-netbeans-modules-java-editor.jar"/>
+    </module_version>
+</module>

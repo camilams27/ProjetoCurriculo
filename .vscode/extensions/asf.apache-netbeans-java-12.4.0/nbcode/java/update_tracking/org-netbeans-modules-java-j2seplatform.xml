@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.j2seplatform/1">
+    <module_version install_time="1621266587812" last="true" origin="installer" specification_version="1.55">
+        <file crc="2519798490" name="config/Modules/org-netbeans-modules-java-j2seplatform.xml"/>
+        <file crc="3251351094" name="modules/org-netbeans-modules-java-j2seplatform.jar"/>
+        <file crc="335605850" name="scripts/J2SEPlatformProbe.java"/>
+    </module_version>
+</module>

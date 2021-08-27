@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.google.gson">
+    <module_version install_time="1621266160229" last="true" origin="installer" specification_version="2.8.5">
+        <file crc="2902890163" name="config/Modules/com-google-gson.xml"/>
+        <file crc="1183914612" name="modules/com-google-gson.jar"/>
+    </module_version>
+</module>

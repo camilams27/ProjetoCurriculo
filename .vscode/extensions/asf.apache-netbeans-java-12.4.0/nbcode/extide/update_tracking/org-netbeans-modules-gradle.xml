@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.gradle/2">
+    <module_version install_time="1621266406274" last="true" origin="installer" specification_version="2.10">
+        <file crc="2319791741" name="config/Modules/org-netbeans-modules-gradle.xml"/>
+        <file crc="1917582925" name="modules/gradle/daemon-loader/build.gradle"/>
+        <file crc="4131458557" name="modules/gradle/daemon-loader/settings.gradle"/>
+        <file crc="3896900121" name="modules/gradle/nb-tooling.gradle"/>
+        <file crc="2276582200" name="modules/gradle/netbeans-gradle-tooling.jar"/>
+        <file crc="2157343944" name="modules/org-netbeans-modules-gradle.jar"/>
+    </module_version>
+</module>

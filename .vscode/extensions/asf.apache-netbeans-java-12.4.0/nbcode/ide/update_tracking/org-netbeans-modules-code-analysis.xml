@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.code.analysis/0">
+    <module_version install_time="1621266170980" last="true" origin="installer" specification_version="1.38">
+        <file crc="291988240" name="config/Modules/org-netbeans-modules-code-analysis.xml"/>
+        <file crc="3360944077" name="modules/org-netbeans-modules-code-analysis.jar"/>
+    </module_version>
+</module>

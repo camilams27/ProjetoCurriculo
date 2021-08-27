@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.api.lsp/1">
+    <module_version install_time="1621266115483" last="true" origin="installer" specification_version="1.0">
+        <file crc="1150545517" name="config/Modules/org-netbeans-api-lsp.xml"/>
+        <file crc="2864502143" name="modules/org-netbeans-api-lsp.jar"/>
+    </module_version>
+</module>

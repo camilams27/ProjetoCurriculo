@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.editor.document">
+    <module_version install_time="1621266116193" last="true" origin="installer" specification_version="1.21.0.3">
+        <file crc="2494316100" name="config/Modules/org-netbeans-modules-editor-document.xml"/>
+        <file crc="2369575612" name="modules/org-netbeans-modules-editor-document.jar"/>
+    </module_version>
+</module>

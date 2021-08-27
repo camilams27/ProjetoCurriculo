@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.jakartaee9.platform/1">
+    <module_version install_time="1621267151613" last="true" origin="installer" specification_version="1.12">
+        <file crc="2395264022" name="config/Modules/org-netbeans-modules-jakartaee9-platform.xml"/>
+        <file crc="353605167" name="docs/jakartaee9-doc-api.jar"/>
+        <file crc="2767242937" name="modules/org-netbeans-modules-jakartaee9-platform.jar"/>
+    </module_version>
+</module>

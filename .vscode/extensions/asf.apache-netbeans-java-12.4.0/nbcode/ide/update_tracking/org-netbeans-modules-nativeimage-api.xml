@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.nativeimage.api/0">
+    <module_version install_time="1621266318050" last="true" origin="installer" specification_version="0.1">
+        <file crc="921063930" name="config/Modules/org-netbeans-modules-nativeimage-api.xml"/>
+        <file crc="1407876231" name="modules/org-netbeans-modules-nativeimage-api.jar"/>
+    </module_version>
+</module>

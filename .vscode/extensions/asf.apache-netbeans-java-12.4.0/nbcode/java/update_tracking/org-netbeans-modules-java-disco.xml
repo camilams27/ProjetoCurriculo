@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.disco">
+    <module_version install_time="1621266663649" last="true" origin="installer" specification_version="1.0">
+        <file crc="3715367766" name="config/Modules/org-netbeans-modules-java-disco.xml"/>
+        <file crc="1610228062" name="modules/ext/checker-qual-3.9.1.jar"/>
+        <file crc="1901653173" name="modules/ext/commons-compress-1.20.jar"/>
+        <file crc="1417281638" name="modules/ext/discoclient-1.0.1.jar"/>
+        <file crc="3350664184" name="modules/ext/httpclient5-5.0.3.jar"/>
+        <file crc="3463737497" name="modules/ext/httpcore5-5.0.2.jar"/>
+        <file crc="1610792325" name="modules/ext/httpcore5-h2-5.0.2.jar"/>
+        <file crc="3434552826" name="modules/org-netbeans-modules-java-disco.jar"/>
+    </module_version>
+</module>

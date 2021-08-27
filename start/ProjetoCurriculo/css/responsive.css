@@ -1,0 +1,96 @@
+/* ----------------------- */
+/* Responsividade */
+
+@media (max-width:320px){
+    #principal{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    #cabecalho{
+        display: flex;
+        flex-direction: column;
+    }
+
+    #nome{
+        margin-top: 11px;
+    }
+
+    #p-contato{
+        font-size: 80%;
+    } 
+
+    #p-perfil,ul, li{
+        color: #222222;
+        font-size: 13px;
+    }
+
+    #principal{
+        float: left;
+    }
+
+    #container-left{
+        height: 100%;
+        width: 100%;
+    }
+    
+    #container-right{
+        height: 100%;
+        width: 100%;
+    }
+
+    #conhecimentos{
+        margin-top: 50px;
+    }
+
+    footer, #p-footer{
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        color: #FFFFFF;
+    }
+}
+
+/* tela com valor máximo de largura, em até 480px */
+@media (max-width:1670px){
+
+    #principal{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    div[id^="conteudo"]{
+        margin:  3% 25%;
+    }    
+
+    #container-left{
+        height: 130%;
+        width: 100%;
+        
+    }
+
+    #cabecalho{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    #container-right{
+        height: 110vh;
+        width: 100%;
+        padding-top: 10%;
+    }
+
+    #contato{
+        margin-top: 10%;
+    } 
+
+    footer, #p-footer{
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        color: #FFFFFF;
+    }
+
+} 

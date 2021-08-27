@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="net.java.html.geo">
+    <module_version install_time="1621266052014" last="true" origin="installer" specification_version="1.7.0">
+        <file crc="455273350" name="config/Modules/net-java-html-geo.xml"/>
+        <file crc="1608837406" name="modules/net-java-html-geo.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.antlr3.runtime">
+    <module_version install_time="1621266184255" last="true" origin="installer" specification_version="1.33.0.1">
+        <file crc="455280824" name="config/Modules/org-netbeans-libs-antlr3-runtime.xml"/>
+        <file crc="295502377" name="modules/ext/antlr-runtime-3.4.jar"/>
+        <file crc="1596641055" name="modules/org-netbeans-libs-antlr3-runtime.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.flexmark">
+    <module_version install_time="1621266301074" last="true" origin="installer" specification_version="1.5">
+        <file crc="3213768697" name="config/Modules/org-netbeans-libs-flexmark.xml"/>
+        <file crc="3773334438" name="modules/ext/flexmark-0.50.36.jar"/>
+        <file crc="1198885673" name="modules/ext/flexmark-ext-emoji-0.50.36.jar"/>
+        <file crc="1200487655" name="modules/ext/flexmark-formatter-0.50.36.jar"/>
+        <file crc="176288585" name="modules/ext/flexmark-html2md-converter-0.50.36.jar"/>
+        <file crc="2944060545" name="modules/ext/flexmark-util-0.50.36.jar"/>
+        <file crc="1527915007" name="modules/ext/jsoup-1.11.3.jar"/>
+        <file crc="3525218512" name="modules/org-netbeans-libs-flexmark.jar"/>
+    </module_version>
+</module>

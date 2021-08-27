@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.jakartaee9.api">
+    <module_version install_time="1621267145511" last="true" origin="installer" specification_version="1.12">
+        <file crc="3702325946" name="config/Modules/org-netbeans-modules-jakartaee9-api.xml"/>
+        <file crc="863876938" name="modules/ext/jakarta.jakartaee-api-9.0.0.jar"/>
+        <file crc="2567511094" name="modules/ext/jakarta.jakartaee-web-api-9.0.0.jar"/>
+        <file crc="3992954464" name="modules/org-netbeans-modules-jakartaee9-api.jar"/>
+    </module_version>
+</module>

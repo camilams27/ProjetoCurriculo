@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.apache.commons.io">
+    <module_version install_time="1621266052877" last="true" origin="installer" specification_version="2.6.0">
+        <file crc="3768078335" name="config/Modules/org-apache-commons-io.xml"/>
+        <file crc="3913279208" name="modules/org-apache-commons-io.jar"/>
+    </module_version>
+</module>

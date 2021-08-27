@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.markdown">
+    <module_version install_time="1621266312302" last="true" origin="installer" specification_version="1.0">
+        <file crc="2482455241" name="config/Modules/org-netbeans-modules-markdown.xml"/>
+        <file crc="4038274934" name="modules/org-netbeans-modules-markdown.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.selenium2.webclient">
+    <module_version install_time="1621266460196" last="true" origin="installer" specification_version="1.19">
+        <file crc="2015901355" name="config/Modules/org-netbeans-modules-selenium2-webclient.xml"/>
+        <file crc="1614098156" name="modules/org-netbeans-modules-selenium2-webclient.jar"/>
+    </module_version>
+</module>

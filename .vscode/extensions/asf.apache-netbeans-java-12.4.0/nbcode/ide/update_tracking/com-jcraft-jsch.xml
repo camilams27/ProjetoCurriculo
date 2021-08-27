@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.jcraft.jsch">
+    <module_version install_time="1621266160714" last="true" origin="installer" specification_version="0.1.55">
+        <file crc="921453600" name="config/Modules/com-jcraft-jsch.xml"/>
+        <file crc="400342029" name="modules/com-jcraft-jsch.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.nbjavac.impl">
+    <module_version install_time="1621267536941" last="true" origin="Ant" specification_version="2.5">
+        <file crc="2308839876" name="config/Modules/org-netbeans-modules-nbjavac-impl.xml"/>
+        <file crc="502307857" name="modules/ext/nb-javac-16.0.0.0-impl.jar"/>
+        <file crc="3510625067" name="modules/org-netbeans-modules-nbjavac-impl.jar"/>
+    </module_version>
+</module>

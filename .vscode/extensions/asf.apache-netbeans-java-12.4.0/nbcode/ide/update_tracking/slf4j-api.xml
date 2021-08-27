@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="slf4j.api">
+    <module_version install_time="1621266263659" last="true" origin="installer" specification_version="1.7.28">
+        <file crc="4090530114" name="config/Modules/slf4j-api.xml"/>
+        <file crc="2331043806" name="modules/slf4j-api.jar"/>
+    </module_version>
+</module>

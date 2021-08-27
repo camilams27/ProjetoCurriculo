@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript.v8debug/1">
+    <module_version install_time="1621266458216" last="true" origin="installer" specification_version="1.22.0.1">
+        <file crc="3323539515" name="config/Modules/org-netbeans-modules-javascript-v8debug.xml"/>
+        <file crc="628907482" name="modules/org-netbeans-modules-javascript-v8debug.jar"/>
+    </module_version>
+</module>
