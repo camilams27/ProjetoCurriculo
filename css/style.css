@@ -17,19 +17,19 @@ body{
     flex-direction: row;
     margin: 0 auto;
     width: 50vw;
-    height: 100%;
+    height: 150%;
     position: relative;
 }
 
 /* conteúdo do curriculo */
 div[id^="conteudo"]{
-    margin:  61px 71px;
+    margin:  60px 70px;
 }
 
 /* parte esquerda (branca) */
 #container-left{
-    height: 150vh;
-    width: 75vw;
+    height: 150%;
+    width: 65%;
     background-color: #FFFFFF;
 }
 
@@ -91,8 +91,7 @@ footer{
 
 /* lado direito (azul)  */
 #container-right{
-    height: 150vh;
-    width: 25vw;
+    width: 45%;
     background-color: #19304F;
     color: #FFFFFF;
 }
@@ -152,4 +151,3 @@ a.link-projeto:visited{
 #email{
     color: #FFFFFF;
 }
-
