@@ -13,7 +13,7 @@ O conteúdo é voltado com informações curriculares, como conhecimentos tecnol
 <img src="https://github.com/camilams27/ProjetoCurriculo/blob/master/img/prints/web2.png?raw=true"/>
 
 ## Layout Mobile 📱
-<img src="https://github.com/camilams27/ProjetoCurriculo/blob/master/img/prints/mobile-1.jpg?raw=true" width="450" height="820"/> <img src="https://github.com/camilams27/ProjetoCurriculo/blob/master/img/prints/mobile-2.jpg?raw=true" width="450" height="820"/>
+<img src="https://github.com/camilams27/ProjetoCurriculo/blob/master/img/prints/mobile-1.jpg?raw=true" width="480" height="820"/> <img src="https://github.com/camilams27/ProjetoCurriculo/blob/master/img/prints/mobile-2.jpg?raw=true" width="480" height="820"/>
 
 ## Tecnologias utilizadas 🛠
 
