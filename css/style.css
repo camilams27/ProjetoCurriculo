@@ -8,6 +8,10 @@
 body{
     margin: 0%;
     padding: 0%;
+}
+
+/*  */
+body{
     background-color: rgb(224, 224, 224);
 }
 
@@ -17,19 +21,19 @@ body{
     flex-direction: row;
     margin: 0 auto;
     width: 50vw;
-    height: 150%;
+    height: 100%;
     position: relative;
 }
 
 /* conteúdo do curriculo */
 div[id^="conteudo"]{
-    margin:  60px 70px;
+    margin:  61px 71px;
 }
 
 /* parte esquerda (branca) */
 #container-left{
     height: 150%;
-    width: 65%;
+    width: 75vw;
     background-color: #FFFFFF;
 }
 
@@ -91,7 +95,7 @@ footer{
 
 /* lado direito (azul)  */
 #container-right{
-    width: 45%;
+    width: 25vw;
     background-color: #19304F;
     color: #FFFFFF;
 }
@@ -151,3 +155,4 @@ a.link-projeto:visited{
 #email{
     color: #FFFFFF;
 }
+

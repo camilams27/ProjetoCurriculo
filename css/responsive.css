@@ -53,7 +53,7 @@
 }
 
 /* tela com valor máximo de largura, em até 480px */
-@media (max-width:1200px){
+@media (max-width:1240px){
 
     #principal{
         display: flex;
@@ -67,9 +67,8 @@
     }    
 
     #container-left{
-        height: 150vh;
+        height: 150%;
         width: 100%;
-        
     }
 
     #cabecalho{
@@ -78,8 +77,8 @@
     }
     
     #container-right{
-        height: 110vh;
-        width: 100%;
+        height: 50vh;
+        width: 100vw;
         padding-top: 10%;
     }
 
@@ -96,12 +95,30 @@
 
 } 
 
-@media (max-width:1400px){
-    /* #email{
-        font-size: 14px;
-    } */
+/* parte azul - contato - ajuste para não ultrapassar o limite */
 
-    #contato{
-        
+@media (min-width:1200px) and (max-width:1250px){
+    #principal{
+        display: flex;
+        flex-direction: row;
+        height: 100%;
+    }
+    #container-left{
+        height: 100vh;
+        width: 100%;
+    }
+    #container-right{
+        padding-top: 10%;
+        width: 55vw;
+        height: 100vh;
+    }
+    #conteudo-right{
+        margin:  0% 8%;
+    }
+    footer, #p-footer{
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        color: #222222;
     }
 }
